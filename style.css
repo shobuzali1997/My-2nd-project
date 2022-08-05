@@ -1,0 +1,39 @@
+#aboutme{
+    background-color: #9C9C9C
+}
+
+#aboutme h2 {
+    text-align: center;
+    color: rgb(102, 49, 146);
+}
+
+.heading-style{
+    color:blue;
+    text-align: center;
+}
+
+table,tr,th,td{
+    border:1px solid #000000;
+    border-collapse:collapse;
+    padding:15px;
+    text-align:center;
+    }
+
+p{
+    text-align:center;
+}
+
+.CURRICULAM-VITA{
+    background-color: #19C90DF0;
+}
+
+
+section > div{
+    background-color: aqua;
+}
+
+.tab{
+    background-color: #D1D1D1
+}
+
+
